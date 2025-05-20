@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SS14")(type "KiCad")(uri "${KIPRJMOD}/Libraries/SS14/SS14.kicad_sym")(options "")(descr ""))
+  (lib (name "AP3015AKTR-G1")(type "KiCad")(uri "${KIPRJMOD}/Libraries/AP3015AKTR-G1/SOT23-5_1P55X2P9_DIO.kicad_sym")(options "")(descr ""))
+  (lib (name "IND_ASPI-0630LR_ABR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ASPI-0630LR-100M-T15/IND_ASPI-0630LR_ABR.kicad_sym")(options "")(descr ""))
+)
