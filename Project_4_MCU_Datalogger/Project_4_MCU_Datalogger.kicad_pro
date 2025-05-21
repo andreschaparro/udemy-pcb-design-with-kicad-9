@@ -290,7 +290,11 @@
     "netclass_patterns": [
       {
         "netclass": "Power",
-        "pattern": ""
+        "pattern": "VCC"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "GND"
       }
     ]
   },

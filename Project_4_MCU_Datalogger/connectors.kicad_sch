@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "27a24f28-ed09-45db-827e-fafb943097d3")
+	(uuid "8a1022d6-5ab9-400e-af71-e383f5ef801b")
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
@@ -1141,7 +1141,7 @@
 		)
 		(uuid "8b1721f5-159b-466f-8035-5f098c0daf22")
 	)
-	(hierarchical_label "SCLK"
+	(hierarchical_label "SCK"
 		(shape passive)
 		(at 133.35 66.04 180)
 		(effects
