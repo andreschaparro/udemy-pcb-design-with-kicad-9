@@ -2407,7 +2407,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 125.222 135.89 90)
 			(effects
 				(font
@@ -2459,7 +2459,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 101.6 43.18 0)
+		(at 101.6 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2468,7 +2468,7 @@
 		(fields_autoplaced yes)
 		(uuid "090c015e-ca4a-4820-82fe-0becab4ad796")
 		(property "Reference" "R1"
-			(at 104.14 41.9099 0)
+			(at 104.14 43.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2477,7 +2477,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 104.14 44.4499 0)
+			(at 104.14 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2485,8 +2485,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 99.822 43.18 90)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 99.822 44.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2495,7 +2495,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 101.6 43.18 0)
+			(at 101.6 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2504,7 +2504,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 101.6 43.18 0)
+			(at 101.6 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2513,7 +2513,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 101.6 43.18 0)
+			(at 101.6 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2537,7 +2537,7 @@
 	)
 	(symbol
 		(lib_id "DS1337S_:DS1337S_")
-		(at 63.5 54.61 0)
+		(at 63.5 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2546,7 +2546,7 @@
 		(fields_autoplaced yes)
 		(uuid "1386e5a1-180a-4ac0-b820-fcbe77b50909")
 		(property "Reference" "U2"
-			(at 63.5 34.29 0)
+			(at 63.5 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2554,15 +2554,15 @@
 			)
 		)
 		(property "Value" "DS1337S_"
-			(at 63.5 36.83 0)
+			(at 63.5 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "DS1337S_:SOIC127P600X175-8N"
-			(at 63.5 54.61 0)
+		(property "Footprint" "Footprints:SOIC127P600X175-8N"
+			(at 63.5 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2572,7 +2572,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 54.61 0)
+			(at 63.5 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2581,7 +2581,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 63.5 54.61 0)
+			(at 63.5 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2590,7 +2590,7 @@
 			)
 		)
 		(property "MF" "Maxim Integrated Products"
-			(at 63.5 54.61 0)
+			(at 63.5 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2600,7 +2600,7 @@
 			)
 		)
 		(property "Description_1" "Real Time Clock (RTC) IC Clock/Calendar I2C, 2-Wire Serial 8-SOIC (0.154, 3.90mm Width)"
-			(at 63.5 54.61 0)
+			(at 63.5 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2610,7 +2610,7 @@
 			)
 		)
 		(property "Package" "SOIC-8 Maxim"
-			(at 63.5 54.61 0)
+			(at 63.5 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2620,7 +2620,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 63.5 54.61 0)
+			(at 63.5 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2630,7 +2630,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/DS1337S+/Maxim+Integrated/view-part/?ref=snap"
-			(at 63.5 54.61 0)
+			(at 63.5 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2640,7 +2640,7 @@
 			)
 		)
 		(property "MP" "DS1337S+"
-			(at 63.5 54.61 0)
+			(at 63.5 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2650,7 +2650,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 63.5 54.61 0)
+			(at 63.5 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2660,7 +2660,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/DS1337S+/Maxim+Integrated/view-part/?ref=eda"
-			(at 63.5 54.61 0)
+			(at 63.5 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2670,7 +2670,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 63.5 54.61 0)
+			(at 63.5 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2738,7 +2738,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering"
 			(at 25.4 54.61 0)
 			(effects
 				(font
@@ -2816,7 +2816,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 254.9652 48.26 0)
 			(effects
 				(font
@@ -2892,7 +2892,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering"
 			(at 171.45 76.2 0)
 			(effects
 				(font
@@ -2970,7 +2970,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 254 139.7 0)
 			(effects
 				(font
@@ -3042,7 +3042,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 150.622 67.31 90)
 			(effects
 				(font
@@ -3120,7 +3120,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8_5.3x5.3mm_P1.27mm"
 			(at 96.52 144.78 0)
 			(effects
 				(font
@@ -3190,7 +3190,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 114.3 43.18 0)
+		(at 114.3 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3199,7 +3199,7 @@
 		(fields_autoplaced yes)
 		(uuid "7f093089-bf14-4c1f-a27a-b24427264891")
 		(property "Reference" "R2"
-			(at 116.84 41.9099 0)
+			(at 116.84 43.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3208,7 +3208,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 116.84 44.4499 0)
+			(at 116.84 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3216,8 +3216,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 112.522 43.18 90)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 112.522 44.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3226,7 +3226,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 114.3 43.18 0)
+			(at 114.3 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3235,7 +3235,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 114.3 43.18 0)
+			(at 114.3 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3244,7 +3244,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 114.3 43.18 0)
+			(at 114.3 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3294,7 +3294,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8_5.3x5.3mm_P1.27mm"
 			(at 45.72 144.78 0)
 			(effects
 				(font
@@ -3390,7 +3390,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 254 152.4 0)
 			(effects
 				(font
@@ -3436,7 +3436,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 127 43.18 0)
+		(at 127 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3445,7 +3445,7 @@
 		(fields_autoplaced yes)
 		(uuid "9973de1a-0fa6-42a3-a093-8c9b2ed32b97")
 		(property "Reference" "C1"
-			(at 130.81 41.9099 0)
+			(at 130.81 43.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3454,7 +3454,7 @@
 			)
 		)
 		(property "Value" "0.1u"
-			(at 130.81 44.4499 0)
+			(at 130.81 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3462,8 +3462,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 127.9652 46.99 0)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 127.9652 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3472,7 +3472,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 127 43.18 0)
+			(at 127 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3481,7 +3481,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 127 43.18 0)
+			(at 127 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3490,7 +3490,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 127 43.18 0)
+			(at 127 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3540,7 +3540,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 193.802 92.71 90)
 			(effects
 				(font
@@ -3616,7 +3616,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ATMEGA328P-AU:QFP80P900X900X120-32N"
+		(property "Footprint" "Footprints:QFP80P900X900X120-32N"
 			(at 213.36 66.04 0)
 			(effects
 				(font
@@ -3905,7 +3905,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 241.3 44.45 0)
 			(effects
 				(font
@@ -3992,7 +3992,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 254 114.3 0)
 			(effects
 				(font
@@ -4064,7 +4064,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 239.522 54.61 90)
 			(effects
 				(font
@@ -4142,7 +4142,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 112.522 135.89 90)
 			(effects
 				(font
@@ -4220,7 +4220,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 254 127 0)
 			(effects
 				(font
@@ -4292,7 +4292,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 185.1152 96.52 0)
 			(effects
 				(font
@@ -4370,7 +4370,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 266.7 42.926 90)
 			(effects
 				(font
@@ -4448,7 +4448,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 178.7652 86.36 0)
 			(effects
 				(font
@@ -4526,7 +4526,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 166.0652 86.36 0)
 			(effects
 				(font
@@ -4604,7 +4604,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 152.4 57.15 0)
 			(effects
 				(font

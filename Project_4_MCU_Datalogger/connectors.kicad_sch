@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "061ee569-d59c-48d2-8cce-79f628713887")
+	(uuid "5a0c9d55-54bc-484d-a2d0-6bd87b731919")
 	(paper "A4")
 	(title_block
 		(title "${project_name}")
@@ -990,7 +990,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
 			(at 138.43 66.04 0)
 			(effects
 				(font
@@ -1077,7 +1077,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical"
 			(at 109.22 73.66 0)
 			(effects
 				(font
@@ -1173,7 +1173,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 134.62 40.64 0)
 			(effects
 				(font
@@ -1254,7 +1254,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 107.95 40.64 0)
 			(effects
 				(font
