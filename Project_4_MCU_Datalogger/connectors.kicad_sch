@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "d3aa2a43-32a5-4ebe-b5ad-dde2d5240b60")
+	(uuid "061ee569-d59c-48d2-8cce-79f628713887")
 	(paper "A4")
 	(title_block
 		(title "${project_name}")

@@ -2398,7 +2398,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4K7"
 			(at 129.54 137.1599 0)
 			(effects
 				(font
@@ -2476,7 +2476,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10K"
 			(at 104.14 44.4499 0)
 			(effects
 				(font
@@ -2729,7 +2729,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Crystal"
+		(property "Value" "32.768 KHz"
 			(at 29.21 55.8799 90)
 			(effects
 				(font
@@ -2807,7 +2807,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "0.1u"
 			(at 257.81 44.8309 0)
 			(effects
 				(font
@@ -2884,7 +2884,7 @@
 				)
 			)
 		)
-		(property "Value" "Crystal"
+		(property "Value" "16 MHz"
 			(at 171.45 71.12 0)
 			(effects
 				(font
@@ -3033,7 +3033,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "330"
 			(at 154.94 68.5799 0)
 			(effects
 				(font
@@ -3207,7 +3207,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10K"
 			(at 116.84 44.4499 0)
 			(effects
 				(font
@@ -3453,7 +3453,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1u"
 			(at 130.81 44.4499 0)
 			(effects
 				(font
@@ -3531,7 +3531,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10K"
 			(at 198.12 93.9799 0)
 			(effects
 				(font
@@ -4055,7 +4055,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "330"
 			(at 243.84 55.8799 0)
 			(effects
 				(font
@@ -4133,7 +4133,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4K7"
 			(at 116.84 137.1599 0)
 			(effects
 				(font
@@ -4266,7 +4266,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 186.69 92.71 0)
+		(at 184.15 92.71 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4275,7 +4275,7 @@
 		(fields_autoplaced yes)
 		(uuid "c1f86d79-3585-4a8a-979f-2ec1271bbe1a")
 		(property "Reference" "C4"
-			(at 190.5 91.4399 0)
+			(at 187.96 91.4399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4283,8 +4283,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 190.5 93.9799 0)
+		(property "Value" "0.1u"
+			(at 187.96 93.9799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4293,7 +4293,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.6552 96.52 0)
+			(at 185.1152 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4302,7 +4302,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 186.69 92.71 0)
+			(at 184.15 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4311,7 +4311,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 186.69 92.71 0)
+			(at 184.15 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4320,7 +4320,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 186.69 92.71 0)
+			(at 184.15 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4439,7 +4439,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22p"
 			(at 181.61 83.8199 0)
 			(effects
 				(font
@@ -4517,7 +4517,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "22p"
 			(at 168.91 83.8199 0)
 			(effects
 				(font
